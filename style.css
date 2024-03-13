@@ -91,3 +91,18 @@ p {
     height: auto;
 }
 
+.footer-border {
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    height: auto;
+    width: auto;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex: initial;
+ 
+    
+}
+
